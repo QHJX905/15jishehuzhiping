@@ -1,5 +1,5 @@
 #include<iostream.h>
-void main£¨£©
+void mainï¼ˆï¼‰
 {inti=5;
 a=++i;
 cout<<i<<c<<endl<<i++<<endl;
