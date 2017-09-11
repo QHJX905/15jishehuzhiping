@@ -1,0 +1,6 @@
+#include<iostream.h>
+void main£¨£©
+{inti=5;
+a=++i;
+cout<<i<<c<<endl<<i++<<endl;
+}
