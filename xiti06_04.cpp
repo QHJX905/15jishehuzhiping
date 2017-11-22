@@ -11,7 +11,6 @@ int f(int n)
 void main()  
  {   
 	int n,i;     
-	int f(int n) ;
 	n=20;
 	cout<<"The fibonacci you want is:" <<endl;
 	for(i=1;i<=n;i++)
