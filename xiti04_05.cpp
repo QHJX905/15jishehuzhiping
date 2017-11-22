@@ -3,13 +3,13 @@
 void main()
 {
 	int m;
-    cout << "1~99Ö®¼äµÄÍ¬¹¹ÊýÎª:"<<endl;
+    cout << "1~99ä¹‹é—´çš„åŒæž„æ•°ä¸º:"<<endl;
 	for(int i=99; i>=1; i--)
     {
         m = i*i;
         if( i<10 && i == m%10 ) 
-            cout<< i << "    Í¬¹¹Êý   " << m << endl;
+            cout<< i << "    åŒæž„æ•°   " << m << endl;
         else if( i>=10 && i == m%100 ) 
-            cout<< i << "   Í¬¹¹Êý   " << m << endl;
+            cout<< i << "   åŒæž„æ•°   " << m << endl;
     }
 }
