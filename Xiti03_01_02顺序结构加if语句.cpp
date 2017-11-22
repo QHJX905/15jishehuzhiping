@@ -5,13 +5,13 @@ void main()
 		cout<<"please input :"<<endl;
 	cin>>a;
 	if(a<10)
-		cout<<"a Ð¡ÓÚ10"<<endl;
+		cout<<"a å°äºŽ10"<<endl;
 	else
 		if(a<100)
-		   cout<<"a ÔÚ10~99Ö®¼ä"<<endl;
+		   cout<<"a åœ¨10~99ä¹‹é—´"<<endl;
         else
 	    	if(a<1000)
-			cout<<"a ÔÚ100~999Ö®¼ä"<<endl;
+			cout<<"a åœ¨100~999ä¹‹é—´"<<endl;
             else
-            cout<<"a ÔÚ1000ÒÔÉÏ"<<endl;
+            cout<<"a åœ¨1000ä»¥ä¸Š"<<endl;
 }
