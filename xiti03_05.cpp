@@ -7,5 +7,5 @@ void main()
     cin>>a>>b>>c;
     s=(a+b+c)/2.0;
 	area=sqrt (s*(s-a)*(s-b)*(s-c));
-	cout<<"三角形的面积是："<<"area="<<area<<endl;
+	cout<<"膶媒藵脟膼脦木脛膫膰钮媒臉脟艁艧"<<"area="<<area<<endl;
 }
